@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TemApp</string>
+    <string name="CelRB">cel</string>
+    <string name="FraRB">Far</string>
+    <string name="Button">Calculation</string>
+    <string name="temp">Enter Temp</string>
+</resources>
