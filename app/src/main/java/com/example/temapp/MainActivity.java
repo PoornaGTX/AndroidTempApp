@@ -13,6 +13,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     Button btnCal;
+    Button bl;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
